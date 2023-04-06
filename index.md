@@ -5,7 +5,7 @@
 ### Academia Projects
 
 [Bioverse - Capstone Project 2020](/bioverse.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gcb_stock.png?raw=true"/>
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
