@@ -1,31 +1,31 @@
-## Bioverse 3 - A.I. IoT Edge Detection System
+## This can be your internal website page / project page
 
-**Project description:** The goal of this capstone project is to detect invasive species that may be harmful to the local environment. 
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-Using iNaturalist Dataset, we will build and train ML models on Google Cloud Platform and deploy the model to our edge IoT devices. Monitoring is essential for this project, so a retraining pipeline is preferred. 
-
-<!-- ```javascript
-if (isAwesome){
-  return true
-}
-``` -->
-<!-- 
-### 2. Google Cloud Server Process
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
 if (isAwesome){
   return true
 }
-``` -->
+```
 
-### 2. Presentation PDF
+### 2. Assess assumptions on which statistical inference will be based
 
-[Presentation Bioverse 3](/pdf/Presentation_Bioverse_3%202.pdf)
-<!-- 
-### 3. Provide a basis for further data collection through surveys or experiments
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

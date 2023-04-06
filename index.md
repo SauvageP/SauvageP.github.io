@@ -4,20 +4,21 @@
 
 ### Academia Projects
 
-[Bioverse - Capstone Project 2020](/sample_page)
+[Bioverse - Capstone Project 2020](/bioverse.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+[Jixel](https://devpost.com/software/jixel)
+<img src="images/jixel_stock_image.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[VirtualPong](https://devpost.com/software/virtualpong#updates)
+<img src="images/vpong_stock.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Personal Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,4 +32,3 @@
 
 
 ---
-
